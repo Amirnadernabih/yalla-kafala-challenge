@@ -1,0 +1,19 @@
+.food{
+    color: #F17228;
+    font-weight: 700;
+}
+.wagon{
+    color:  #FFB30E;  
+    font-weight: 700;
+}
+.MainNav{
+    text-align: center;
+    padding-bottom: 5px;
+}
+.navbar{
+  padding: 16px, 220px, 16px, 220px;
+  justify-content: space-between;
+  top: -2px;
+
+
+}
