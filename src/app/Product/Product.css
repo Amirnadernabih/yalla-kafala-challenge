@@ -1,7 +1,7 @@
 .Main{
     display: flex;
     justify-content:space-evenly;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 img{
     width: 200px;

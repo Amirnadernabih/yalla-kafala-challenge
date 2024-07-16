@@ -1,0 +1,27 @@
+.MainHowroot{
+    background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) -42.47%, rgba(253, 237, 202, 0) 100%);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+.MainHow{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+   
+}
+.headHow{
+    text-align: center;
+    justify-content: center;
+   
+    color: #F17228;
+    font-weight: 700;
+    font-size: 30px;
+}
+.card-text3{
+    color: black;
+    font-weight: 700;
+}
+.howphoto{
+    width: 150px;
+}
